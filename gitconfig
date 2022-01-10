@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = maximilian-scheider@gmx.de
+	name = Maximilian Scheider
